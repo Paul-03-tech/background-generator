@@ -1,13 +1,19 @@
 {
   "name": "background-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Changing of background",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul-03-tech/background-generator.git"
+  },
+  "author": "Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paul-03-tech/background-generator/issues"
+  },
+  "homepage": "https://github.com/Paul-03-tech/background-generator#readme"
 }
-
-
